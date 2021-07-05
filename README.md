@@ -4,7 +4,7 @@
 * Name: **Kiernan Harding**
 * Supervisor: **Dr Alba Garcia Seco De Herrera**
 * Second Assessor: **Dr John O'Hara**
-* Grade: **Pending**
+* Grade: **1st (88%)**
 * Dataset: [National Institutes of Health](https://lhncbc.nlm.nih.gov/LHC-publications/pubs/MalariaDatasets.html)
 
 ## Abstract
